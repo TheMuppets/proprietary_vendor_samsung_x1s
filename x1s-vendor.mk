@@ -85,6 +85,7 @@ PRODUCT_PACKAGES += \
     libqfp_sensortest \
     libsynaFpSensorTestNwd \
     libteecl \
+    libuuid_vendor \
     libwrappergps \
     sensors.grip \
     sensors.sensorhub \
